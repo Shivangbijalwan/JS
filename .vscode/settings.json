@@ -1,0 +1,7 @@
+{
+    "task.quickOpen.detail": true,
+    "task.quickOpen.skip": true,
+    "task.autoDetect": "on",
+    "debug.showSubSessionsInToolBar": false,
+    "workbench.activityBar.location": "default"
+}
