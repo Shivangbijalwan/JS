@@ -29,3 +29,8 @@ console.log(x || y); // Logical OR
 console.log(!x); // Logical NOT
 
 
+// Ternary Operator
+
+let n = 10;
+let m = 12;
+console.log( (n>m) ? n+m : n-m );
