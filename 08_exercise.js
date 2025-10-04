@@ -13,4 +13,4 @@ let Full_Name = `${Adjectives[Math.floor(Math.random() * Adjectives.length)]} ${
 
 
 
-console.log(`Your business name is ${Full_Name}`);
+console.log(`Your business name is: ${Full_Name}`);
