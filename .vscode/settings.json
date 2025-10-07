@@ -3,5 +3,8 @@
     "task.quickOpen.skip": true,
     "task.autoDetect": "on",
     "debug.showSubSessionsInToolBar": false,
-    "workbench.activityBar.location": "default"
+    "workbench.activityBar.location": "default",
+    "cSpell.words": [
+        "doremon"
+    ]
 }
